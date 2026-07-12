@@ -1,0 +1,19 @@
+{
+  "artifact": "media3-decoder-ffmpeg-1.10.1-ffmpeg6.0-r1.aar",
+  "media3Ref": "1.10.1",
+  "media3Commit": "5fb306449733dd71595700c1227ad6087578c559",
+  "ffmpegRef": "release/6.0",
+  "ffmpegCommit": "bda1c6f1f9041910ec5b2c279a08861203a1c95c",
+  "ffmpegDecoders": [
+    "ac3",
+    "eac3",
+    "truehd",
+    "dca"
+  ],
+  "artifactMinSdk": 23,
+  "ffmpegAndroidApi": 21,
+  "ffmpegNdkVersion": "26.1.10909125",
+  "media3JniNdkVersion": "27.0.12077973",
+  "cmakeVersion": "3.22.1",
+  "license": "Apache-2.0 AND LGPL-2.1-or-later"
+}

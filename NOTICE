@@ -1,0 +1,8 @@
+media3-codecs
+Copyright 2026 bobcatkay
+
+This product includes software developed by The Android Open Source Project
+and the AndroidX Media3 project, licensed under the Apache License 2.0.
+
+Binary artifacts produced by this project include FFmpeg, licensed separately
+under the GNU Lesser General Public License version 2.1 or later.

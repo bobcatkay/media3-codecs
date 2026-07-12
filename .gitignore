@@ -2,6 +2,12 @@
 .gradle/
 build/
 
+# Reproducibly fetched upstream source trees
+.deps/
+
+# Locally produced release artifacts
+dist/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -14,6 +20,8 @@ captures/
 .cxx/
 *.aab
 *.apk
+*.aar
+!release/*.aar
 output-metadata.json
 
 # IntelliJ
